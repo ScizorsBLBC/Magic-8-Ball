@@ -6,6 +6,7 @@ var answer = document.getElementById("answer");
 var eight = document.getElementById("eight");
 var options = [
     "It is most certain",
+    "You'll never know",
     "I will make it so",
     "Yes - without a doubt", 
     "You may depend on it",
